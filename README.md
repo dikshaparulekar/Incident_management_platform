@@ -84,10 +84,10 @@ accountability.
 
 ### Frontend
 
--   HTML\
--   CSS\
--   Bootstrap\
--   JavaScript
+- React.js
+- Bootstrap
+- JavaScript (ES6)
+- CSS
 
 ### Backend
 
